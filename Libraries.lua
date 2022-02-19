@@ -339,7 +339,7 @@ return {
 	};
 
 	Tag = {
-		URL = "vocksel/Tag/tree/master/lib";
+		URL = "vocksel/Tag/tree/master/src";
 		Description = "Class to make tagging instances easy and typesafe";
 		Documentation = "https://github.com/vocksel/Tag/blob/master/README.md";
 	};
