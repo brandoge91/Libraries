@@ -327,7 +327,7 @@ return {
 	};
 
 	ContextControls = {
-		URL = "vocksel/ContextControls/tree/master/lib";
+		URL = "vocksel/ContextControls/tree/master/src";
 		Description = "Wrapper for ContextActionService with easy mobile button support";
 		Documentation = "https://github.com/vocksel/ContextControls/blob/master/README.md";
 	};
