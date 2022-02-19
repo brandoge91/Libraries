@@ -326,11 +326,7 @@ return {
 		Documentation = "https://kampfkarren.github.io/Roblox/";
 	};
 
-	ContextControls = {
-		URL = "vocksel/ContextControls/tree/master/src";
-		Description = "Wrapper for ContextActionService with easy mobile button support";
-		Documentation = "https://github.com/vocksel/ContextControls/blob/master/README.md";
-	};
+
 
 	t = {
 		URL = "osyrisrblx/t/tree/master/lib";
