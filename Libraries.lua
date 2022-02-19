@@ -16,6 +16,12 @@ return {
 		Documentation = "https://rostrap.github.io/Libraries/Events/ReplicatedValue/";
 		ParentFolderPath = "Events";
 	};
+	
+		ContextControls = {
+		URL = "vocksel/ContextControls/tree/master/src";
+		Description = "Wrapper for ContextActionService with easy mobile button support";
+		Documentation = "https://github.com/vocksel/ContextControls/blob/master/README.md";
+	};
 
 	Keys = {
 		URL = "https://raw.githubusercontent.com/RoStrap/Input/master/Keys.lua";
